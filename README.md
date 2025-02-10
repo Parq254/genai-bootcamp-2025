@@ -7,6 +7,6 @@ Interactive Learning Tools: Develop AI-powered tools to support language learnin
 Augmented Learning Experience: Allow students to continue their learning journey between live classes with AI-driven chatbots, quizzes, and practice exercises tailored to their proficiency level.
 
 ## Project Aims:
-** Empower students to learn languages effectively and independently.
-** Enhance student engagement through AI-based tools.
-** Expand language options to foster multilingual learning and cultural diversity.
+*Empower students to learn languages effectively and independently.
+*Enhance student engagement through AI-based tools.
+*Expand language options to foster multilingual learning and cultural diversity.
