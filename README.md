@@ -1,5 +1,5 @@
 # free-genai-bootcamp-2025
-The purpose of this project is to leverage AI-driven solutions to enhance the learning experience for students at a Language Learning School that teaches Korean and Haitian Creole. This AI system aims to broaden the range of language offerings and provide valuable resources for students to practice and improve their language skills outside of instructor-led classes.
+The purpose of this project is to leverage AI-driven solutions to enhance the learning experience for students at a Language Learning School that teaches Japanese. This AI system aims to broaden the range of language offerings and provide valuable resources for students to practice and improve their language skills outside of instructor-led classes.
 
 ## Key Features:
 Extend Language Offerings: Utilize AI to diversify and enrich the language curriculum.
