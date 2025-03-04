@@ -2,6 +2,7 @@
 This repository documents my journey through the GenAI Bootcamp 2025. I’ll be designing and developing AI-powered learning applications, focusing on real-world GenAI solutions, model selection, prompt engineering, and cloud deployment.
 
 ## Repository Structure:
+'''
 .
 ├── README.md                # Main repo overview (Bootcamp journey)
 ├── journal.md               # Daily bootcamp progress log
@@ -13,6 +14,7 @@ This repository documents my journey through the GenAI Bootcamp 2025. I’ll be 
 ├── projects/                # Contains implementation details
 │   ├── genai-architecting/          # AI system architecture
 │   ├── sentence-constructor/        # NLP-based language learning app
+'''
 
 ## Bootcamp Overview:
 The Bootcamp is designed to;
